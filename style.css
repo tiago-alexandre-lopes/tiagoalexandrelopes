@@ -146,7 +146,7 @@ h1,
 
 h1.jumbo-title {
   font-size: 4rem;
-  font-family: 'SM';
+  font-family: 'm_medium';
 }
 
 h1.large-title {
@@ -443,6 +443,10 @@ section video {
 
 .bg-dark svg:not(.heraldry) path {
   fill: white;
+}
+
+.bg-game{
+  background: #00375c;
 }
 
 
